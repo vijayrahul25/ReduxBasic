@@ -1,2 +1,0 @@
-# ReduxBasic
-Created with CodeSandbox
